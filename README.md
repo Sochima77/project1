@@ -1,4 +1,5 @@
-# project1 How to Run npm Install, npx cypress run
+#  How to Run 
+npm Install, npx cypress run
 # project1
 # project1
 # project1
